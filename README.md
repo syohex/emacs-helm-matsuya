@@ -7,6 +7,13 @@
 ![helm-matsuya](image/helm-matsuya.gif)
 
 
+## Requirements
+
+- helm 1.7.7 or higher
+- matsuya(`gem install matsuya`)
+- [migemo](https://github.com/emacs-jp/migemo)
+
+
 ## Command
 
 #### `M-x helm-matsuya`
